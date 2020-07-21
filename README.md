@@ -1,5 +1,5 @@
 
-![logo](https://i.imgur.com/zDAgX52.png)
+![logo](https://i.pinimg.com/originals/76/ef/27/76ef2745e08e21820ff8cdf8944384f6.png)
 
 Source: https://www.shadowlabs.cc/sira
 # Sira
