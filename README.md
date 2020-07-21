@@ -1,7 +1,7 @@
 
 ![logo](https://i.pinimg.com/originals/76/ef/27/76ef2745e08e21820ff8cdf8944384f6.png)
 
-Source: https://www.shadowlabs.cc/sira
+Source: https://www.shadowlabs.cc/projects/sira
 # Sira
 Fake wireless Access Point (AP) implementation using Python and SSLSTRIP2, intended for testing purposes. This repo is a work in progress.
 This tool is for educational purpose only, usage of Sira for attacking targets without prior mutual consent is illegal. Developers assume no liability and are not responsible for any misuse or damage cause by this program.
